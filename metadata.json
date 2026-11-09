@@ -1,0 +1,6 @@
+{
+  "name": "FXC AI - Chatbot Inteligente",
+  "description": "Chatbot moderno especializado em benefícios, riscos e uso responsável da Inteligência Artificial em tempo real com Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
